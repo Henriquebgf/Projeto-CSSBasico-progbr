@@ -1,0 +1,26 @@
+body{
+	background-color: red;
+	
+	
+	background-image: url('Imagens/backgorund.png') ;
+	background-repeat: no-repeat;
+	background-size: 100% ;
+	
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#item1{
+	list-style-image:url('Imagens/Insta.png');
+}
+
+#item2{
+	list-style-image:url('Imagens/Twitter.png');
+}
+
+#item3{
+	list-style-image:url('Imagens/Youtube.png');
+}
